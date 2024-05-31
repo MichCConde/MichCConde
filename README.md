@@ -1,9 +1,9 @@
-# 🔥 Michelle Conde - "Mich"
+# 🔥 Mich Conde - "ObiDoge"
 
 **`Digital Craftsman (Developer/Multimedia Specialist/Creator)`**
 
 I'm an indie full-stack developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I plan to establish my own startup agency soon. Aside from my passion for coding, I love playing video games, playing instruments, reading, and learning new things every day.
-I l
+
 
 ---
 
